@@ -1,0 +1,2 @@
+websocket-client
+dashscope>=1.23.4
